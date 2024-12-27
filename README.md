@@ -23,7 +23,7 @@
 # Vitrine: 
 
 | Help | Start |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | ![help](https://cdn.discordapp.com/attachments/1322239473622323230/1322245407237210243/image.png?ex=67702c7f&is=676edaff&hm=1f8e1ec5e933e7212f6d300d17bec6c8f0adb3c57c9dcefa5a801cf8fa3e193f&) | ![start](https://cdn.discordapp.com/attachments/1322239473622323230/1322245788880863242/image.png?ex=67702cda&is=676edb5a&hm=b95d397a7eec70d073ee4c1b83fb2ff6d74c5580298e39cab80f0dfc03969d2d&) |
 
 ### Help:
