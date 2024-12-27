@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const config = require('../config.json');
+const { Support } = require('../config');
 
 module.exports.run = async (client, message, args) => {
     if (message.author.bot) return;
@@ -14,7 +15,7 @@ module.exports.run = async (client, message, args) => {
       .addField("🎯 | Exemples", "%start #giveaway 5m 1 Test\n%end Test\n%reroll Test")
       .addField("🧶 | Utilitaire", "%ping, %invite", true)
       .addField("📢 | Information", "%stats", true)
-      .addField("⚡ | Discord Support", "[Discord](https://discord.gg/gNbxw7zNS9)")
+      .addField(`⚡ | **Serveur de Support:** ${Support}`)
       .setTimestamp()
       .setFooter(`Commande demandée par ${message.author.tag}`, client.user.displayAvatarURL());
     message.channel.send("**Envoyé les commandes dans les messages privé ! 💌, Regarde dans les messages privé !**");

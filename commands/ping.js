@@ -8,7 +8,7 @@ module.exports.run = async (client, message, args) => {
   
   if(!message.content.startsWith(prefix)) return;
   
-  const m = await message.channel.send("Hold on .....")
+  const m = await message.channel.send("Attendez .....")
   
   let pong = new Discord.MessageEmbed()
   .setTitle("🏓 Pong!")
