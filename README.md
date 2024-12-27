@@ -10,7 +10,7 @@
     \__|     \__| \_______|\__/  \__| \______/  \______/  
     Si il y a des erreurs contacter maxoulfr_ sur discord.
 
-![](https://img.shields.io/github/watchers/Maxoulfrdev/Nuke-bot?style=social) ![](https://img.shields.io/github/stars/Maxoulfrdev/Nuke-bot?style=social) ![](https://img.shields.io/github/forks/Maxoulfrdev/Nuke-bot?style=social)
+![](https://img.shields.io/github/watchers/Maxoulfrdev/Giveaway-Bot?style=social) ![](https://img.shields.io/github/stars/Maxoulfrdev/Giveaway-Bot?style=social) ![](https://img.shields.io/github/forks/Maxoulfrdev/Giveaway-Bot?style=social)
 
 ## Caractéristiques:
 1. `Start [Salon] [Temps] [Nombre de Gagnant] [Prix] | Exemple : %start #giveaway 5m 1 Test`
